@@ -64,7 +64,7 @@ int main()
         i++;
     }
     
-    //printing the end product
+    //printing the end value
     printf("%d", pop());
     return 0;
 }
