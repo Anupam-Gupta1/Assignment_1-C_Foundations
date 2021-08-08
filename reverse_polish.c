@@ -36,6 +36,7 @@ int main()
             int n1 = pop();
             int n2 = pop();
             int n3;
+
             switch(str[i])
             {
                 case '+':
@@ -59,6 +60,7 @@ int main()
                     break;
                 }
             }
+
             push(n3);
         }
         i++;
